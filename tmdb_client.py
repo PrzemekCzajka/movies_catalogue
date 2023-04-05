@@ -1,6 +1,6 @@
 import requests
 
-api_token = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5OGM0NzlkNTMyMzE5NjYzNDJmODIxNWM5OTIyMDQ0ZCIsInN1YiI6IjYzODM1MWEyMWIxNTdkMDA5NzE2NTVkOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ZvZlGjfq4Cgme_3EOffWRQcaMJTkC1OWy4CqEmr-Q7c"
+api_token = ""
 endpoint = "https://api.themoviedb.org/3/movie/"
 headers = {"Authorization": f"Bearer {api_token}"}
 
